@@ -3,13 +3,11 @@ Jasny Invite code
 
 [![Build Status](https://secure.travis-ci.org/jasny/db.png?branch=master)](http://travis-ci.org/jasny/invite-code)
 
-This library can be used for requiring invitation codes at registration. This is often the case when an application is
-in private beta phase.
+This library can be used for requiring invitation codes at registration. This is often the case when an application is in private beta phase.
 
 ### Installation
 
-Jasny DB is registred at packagist as [jasny/invite-code](https://packagist.org/packages/jasnyinvite-codedb) and can be
-easily installed using [composer](http://getcomposer.org/).
+This library is registred at packagist as [jasny/invite-code](https://packagist.org/packages/jasnyinvite-codedb) and can be easily installed using [composer](http://getcomposer.org/).
 
     composer require jasny/invite-code
 
