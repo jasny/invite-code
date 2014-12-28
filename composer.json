@@ -1,0 +1,31 @@
+{
+    "name": "jasny/invite-code",
+    "type": "library",
+    "description": "Library for using invitation codes",
+    "keywords": [],
+    "license": "MIT",
+    "homepage": "http://jasny.github.com/invite-code",
+    "authors": [
+        {
+            "name": "Arnold Daniels",
+            "email": "arnold@jasny.net",
+            "homepage": "http://www.jasny.net"
+        }
+    ],
+    "support": {
+        "issues": "https://github.com/jasny/invite-code/issues",
+        "source": "https://github.com/jasny/invite-code"
+    },
+    "require": {
+        "php": ">=5.4.0"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "3.*",
+        "mikey179/vfsStream": "1.*"
+    },
+    "autoload": {
+        "psr-0": {
+            "Jasny\\InviteCode": "src/"
+        }
+    }
+}
