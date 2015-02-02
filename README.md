@@ -7,7 +7,7 @@ This library can be used for requiring invitation codes at registration. This is
 
 ### Installation
 
-This library is registred at packagist as [jasny/invite-code](https://packagist.org/packages/jasnyinvite-codedb) and can be easily installed using [composer](http://getcomposer.org/).
+This library is registred at packagist as [jasny/invite-code](https://packagist.org/packages/jasny/invite-code) and can be easily installed using [composer](http://getcomposer.org/).
 
     composer require jasny/invite-code
 
